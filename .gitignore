@@ -1,3 +1,7 @@
+.gitignore
+.mvn/**
+.idea/**
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
